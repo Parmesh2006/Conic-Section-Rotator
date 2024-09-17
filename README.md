@@ -7,4 +7,4 @@
 </p>
 
 <img src="https://github.com/user-attachments/assets/d0d40c77-2408-4a7b-b0b5-9b7d971f312c">
-<p>Source: <a href="https://www.anirdesh.com/math/algebra/rotation-of-conics.php" target="blank">LINK</a></p>
+<p>Source: <a href="https://www.anirdesh.com/math/algebra/rotation-of-conics.php" target="_blank">LINK</a></p>
